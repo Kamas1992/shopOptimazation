@@ -1,0 +1,6 @@
+d:\userdata\kzborows\my documents\visual studio 2015\Projects\shoppingOptimization\shoppingOptimization\bin\Debug\shoppingOptimization.exe.config
+d:\userdata\kzborows\my documents\visual studio 2015\Projects\shoppingOptimization\shoppingOptimization\bin\Debug\shoppingOptimization.exe
+d:\userdata\kzborows\my documents\visual studio 2015\Projects\shoppingOptimization\shoppingOptimization\bin\Debug\shoppingOptimization.pdb
+d:\userdata\kzborows\my documents\visual studio 2015\Projects\shoppingOptimization\shoppingOptimization\obj\Debug\shoppingOptimization.exe
+d:\userdata\kzborows\my documents\visual studio 2015\Projects\shoppingOptimization\shoppingOptimization\obj\Debug\shoppingOptimization.pdb
+D:\userdata\kzborows\My Documents\Visual Studio 2015\Projects\shoppingOptimization\shoppingOptimization\obj\Debug\shoppingOptimization.csprojResolveAssemblyReference.cache
